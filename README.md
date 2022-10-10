@@ -1,8 +1,10 @@
+# sorting_algorithms
+
 # Resources
 
  [Python Time complexity](https://wiki.python.org/moin/TimeComplexity)
 
- [Hash Table](https://iq.opengenus.org/time-complexity-of-hash-table/#:~:text=Insertion%20and%20Deletion-,Best%20Case,complexity%20is%20O(1)
+ [Hash Table](https://iq.opengenus.org/time-complexity-of-hash-table/)
 
  [cheatshest](https://www.bigocheatsheet.com/)
 
